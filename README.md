@@ -1,3 +1,4 @@
+
 This is a simple weather application that provides real-time weather updates for any location worldwide. Users can search for a city and get current weather conditions, including temperature, humidity, wind speed, and more.
 
 Features
